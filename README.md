@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/shknewai-belote-763638153">IT Professional</a>☺</h1>
+<h1>Hi, I'm Shknewai, an <a href="https://linkedin.com/in/shknewai-belote-763638153">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
